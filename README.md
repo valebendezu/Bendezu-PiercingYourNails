@@ -1,8 +1,8 @@
 # PIERCING YOUR  NAILS
-### Piercings con estilo para tus uñas 
+### Piercings con estilo para tus uñas  :gem:
 
-## ¿De qué va este e-comerce?
-Ofrecemos variedad de piercings para decorar uñas, como así también insumos para su colocación. Se realizan envíos a todo el país.
+## ¿De qué va este e-commerce?
+Ofrecemos variedad de piercings para decorar uñas :nail_care:, como así también insumos para su colocación. Se realizan envíos a todo el país.
 Productos:
 - Piercings
 - Piercings de color
@@ -26,9 +26,9 @@ A profesionales en manicura de todo el país, que incluyan en sus servicios de n
 - Cuerpo: Source sans pro
 
 ### Paleta de colores
-- #F3F3F3 (blanco)
-- #E833D4 (rosa vívido)
-- #000000 (negro)
+- `#F3F3F3` (blanco)
+- `#E833D4` (rosa vívido)
+- `#000000` (negro)
 
 ### Logo
 
