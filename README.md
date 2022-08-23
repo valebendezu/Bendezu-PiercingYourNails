@@ -33,3 +33,7 @@ A profesionales en manicura de todo el país, que incluyan en sus servicios de n
 ### Logo
 
 [![logo.jpg](https://i.postimg.cc/4nRK0ntW/logo.jpg)](https://postimg.cc/wRFTyqwN)
+
+### Diseños en Figma
+
+[https://github.com/valebendezu/Bendezu-PiercingYourNails/tree/main/Figma]
